@@ -1,6 +1,8 @@
-# M. Victor Vengatesh — Japanese Temple Portfolio
+# Victor Vengatesh Plotfolio
 
-An immersive, scroll-driven AI/ML portfolio set inside a cinematic Japanese temple world.
+The official immersive portfolio of **M. Victor Vengatesh** — a scroll-driven AI/ML and creative-technology journey set inside a cinematic Japanese temple world.
+
+**Live:** [victor-space-portfolio.vercel.app](https://victor-space-portfolio.vercel.app)
 
 ## Experience
 
@@ -30,4 +32,4 @@ npm run build
 npm start
 ```
 
-The repository is ready for direct Vercel deployment.
+Every push to `main` deploys through the connected Vercel project.

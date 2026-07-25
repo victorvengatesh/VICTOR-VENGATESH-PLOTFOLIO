@@ -115,7 +115,7 @@ export default function Home() {
 
       <section className="chapter hero" id="home">
         <motion.div className="hero-copy" initial={{ opacity: 0, y: 45 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1.15, ease: [0.16, 1, .3, 1] }}>
-          <p className="eyebrow">PORTFOLIO · 2026 / ENTER THE JOURNEY</p>
+          <p className="eyebrow">VICTOR VENGATESH PLOTFOLIO · 2026</p>
           <h1><em>M. VICTOR</em><br />VENGATESH</h1>
           <h3>AI/ML Engineer <b>×</b> Creative Technologist</h3>
           <p>I build intelligent systems where engineering precision meets visual imagination.</p>
