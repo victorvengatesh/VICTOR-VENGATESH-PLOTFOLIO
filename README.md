@@ -1,4 +1,4 @@
-# Victor Vengatesh Plotfolio
+# Victor Vengatesh Portfolio
 
 The official immersive portfolio of **M. Victor Vengatesh** — a scroll-driven AI/ML and creative-technology journey set inside a cinematic Japanese temple world.
 
