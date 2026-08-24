@@ -1,5 +1,7 @@
 # Victor Vengatesh — Interactive Portfolio
 
+[![Portfolio CI](https://github.com/victorvengatesh/VICTOR-VENGATESH-PLOTFOLIO/actions/workflows/ci.yml/badge.svg)](https://github.com/victorvengatesh/VICTOR-VENGATESH-PLOTFOLIO/actions/workflows/ci.yml)
+
 A cinematic, scroll-driven developer portfolio built to present AI/ML projects through an immersive visual experience rather than a conventional static résumé page.
 
 **Live site:** https://victor-space-portfolio.vercel.app
